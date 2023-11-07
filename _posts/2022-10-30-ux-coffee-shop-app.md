@@ -7,7 +7,7 @@ tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer]
 ---
 
 <div>
-<img src="/assets/images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design">
+<img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design">
 
 <h2>
 Coffee Shop App Design 
@@ -76,7 +76,7 @@ Adding An Image with HTML
 <img src="" alt="">
 --> 
 
-<img src="/assets/images/UserPersona-IrisWagner.png" alt="User Persona: Iris">
+<img src="/assets/images/ux-images/UserPersona-IrisWagner.png" alt="User Persona: Iris">
 
 <h2>
 User Journey Map 
@@ -86,7 +86,7 @@ User Journey Map
 After creating a user persona, I also created a user journey map to help me understand the tasks that Iris needed to complete within the app. 
 </p>
 
-<img src="/assets/images/User+Journey+Map+-Iris.jpg" alt="User Journey Map: Iris">
+<img src="/assets/images/ux-images/User+Journey+Map+-Iris.jpg" alt="User Journey Map: Iris">
 
 <h2>
 User Storyboards 
@@ -96,9 +96,9 @@ User Storyboards
 I also found Storyboards helpful for mapping and understanding the user journey as the use the Kindred Coffee shop app. 
 </p>
 
-<img src="/assets/images/UX-Storyboard-BigPicture.jpg" alt="User Storyboard - Big Picture">
+<img src="/assets/images/ux-images/UX-Storyboard-BigPicture.jpg" alt="User Storyboard - Big Picture">
 
-<img src="/assets/images/UX-Storyboard-CloseUp.jpg" alt="User Storyboard - Close Up">
+<img src="/assets/images/ux-images/UX-Storyboard-CloseUp.jpg" alt="User Storyboard - Close Up">
 </div>
 
 
