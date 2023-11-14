@@ -3,7 +3,7 @@ layout: post
 title:  "UX Coffee Shop Design Case Study"
 date:   2022-10-30 14:21:39 -0500
 categories: [UX, Project]
-tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer]
+tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer] #always lowercase for tag names 
 ---
 
 <div>
@@ -147,4 +147,249 @@ Adding a link with HTML
 
 
 <div>
+<h2>
+Wireframes
+</h2>
+
+<p> 
+For the homepage of the app, I sketched out a few different options and combined some of the screens into a final first draft of the homepage design.
+</p>
+
+<img src="/assets/images/ux-images/PaperWireframe-Homepage.jpg" alt="Paper Wireframes">
+
+<p>
+Then I created some low fidelity wireframes on Figma to represent the main user flow within the app. 
+</p>
+
+<img src="/assets/images/ux-images/Low-Fi-1.png" alt="Low Fidelity Prototype Image 1">
+<img src="/assets/images/ux-images/Low-Fi-2.png" alt="Low Fidelity Prototype Image 2">
+
+</div>
+
+
+
+<div>
+<h2>
+Low-Fidelity Prototype
+</h2>
+
+<p>
+Then I created a low-fidelity prototype to gather research from 5 potential users to gather feedback and iterate on my designs. 
+</p>
+<img src="/assets/images/ux-images/Low-Fid-Prototype-1.png" alt="Low Fidelity Prototype">
+
+<h3>
+After User Research with the Low-Fidelity Prototype
+</h3>
+<h4>I discovered the following user needs:</h4>
+<ul>
+<li>Better clues on how to get to the homepage </li>
+<li>To be able to use the customize feature </li>
+<li>To see the specific item they selected is being ordered</li>
+<li>Payment information to be larger on mobile device and more understandable </li>
+</ul>
+
+<a href="https://docs.google.com/spreadsheets/d/1SyxswuNwwRUnkl6CdqDyZ1lc0FK_oSDB/edit#gid=1189135295" target="_blank">Research Notes</a> 
+</div>
+
+
+
+<div>
+<h2>
+Hi-Fidelity Prototype
+</h2>
+
+<img src="/assets/images/ux-images/App-Mockup-three-screens.png" alt="App Mockup">
+
+<a href="https://www.figma.com/proto/IOQfPZk3sHsSsKyY830LaU/Wireframes-for-Coffee-Shop-App?node-id=347-6252&page-id=347%3A6251&scaling=scale-down&starting-point-node-id=347%3A6252&viewport=1017%2C598%2C0.34" target="_blank">Interact with the Hi-Fidelity Prototype</a> 
+
+<h2>
+User Research with Hi-Fidelity Prototype
+</h2>
+
+<img src="/assets/images/ux-images/GabeAndrade-Quote2.png" alt="User Feedback Quote">
+
+<p>
+Overall, users were pleased with the design functionality and aesthetic of my coffee shop app. 
+</p>
+
+<p>
+Although, through affinity mapping I found critical issues to address within the app…
+</p>
+
+<img src="/assets/images/ux-images/Affinity-Map-2.png" alt="Affinity Map">
+
+<img src="/assets/images/ux-images/Affinity-Map-3.png" alt="Affinity Map">
+
+</div>
+
+
+
+<div>
+<h2>
+App Changes and Improvements
+</h2>
+
+<h4>
+Insights from Affinity Map - Level 1 Priority (1-6)
+</h4>
+
+1. User is able to order the item they want instead of just a cappuccino 
+
+2. Customization is displayed with options that are only related to the type of drink. Clear option for no additional customization as well (0 pump options). 
+
+3. Change pickup time input - takes up a lot of screen space, not clear that you need to scroll down
+
+4. Combine rewards and points page - add rewards underneath points progress bar
+
+5. Change verbiage to make scan app button clear
+
+6. Change ads in menu to better resemble button
+
+<h4>
+Insights from Affinity Map - Level 2 Priority (7-10)
+</h4>
+
+7. Change font in app to a more sophisticated typeface
+
+8. Customer subtotal should be displayed at top of checkout page 
+
+9. Change barcode page to a real QR barcode
+
+10. Change 16oz drink to medium, not small 
+
+<h4> 
+Recommendations for next app update: 
+</h4>
+
+<u1>
+<li>Add custom tip input option</li>
+<li>Add input box for drink customization</li>
+<!-- </ul> -->
+
+<br>
+<p><a href="https://docs.google.com/spreadsheets/d/11iWcz0MxtU8M_11wLa7YuhpcaLkOUcXp6UMGjjPaJAk/edit#gid=0" target="_blank">Research Notes</a> 
+</p>
+
+<!-- </div> -->
+
+
+
+<div>
+<h2>
+System Usability Scale (SUS)
+</h2>
+
+<h4>
+My SUS Questions: 
+</h4> 
+
+1. I think that I would use this app frequently.
+
+2. I find the app unnecessarily complex.
+
+3. I think the app is easy to use.
+
+4. I find the app easy to navigate. 
+
+5. There is inconsistency within the app. 
+
+6. I feel confident using the app.
+
+7. I need to learn a lot of things before I can start using this app.
+
+8. The main user flow is clear.
+
+9. I found the payment system frustrating.
+
+10. I found the ordering process inconvenient.
+
+<h2> 
+Scoring the SUS
+</h2>
+
+<h4>
+Based on my participant feedback each participant had an overall SUS score: 
+</h4>
+
+Participant A: 92.5
+
+Participant B: 57.5
+
+Participant C: 90
+
+Participant D: 55
+
+Participant E: 72.5 
+
+Average SUS: 367.5 / 5 =
+
+<em> 73.5 Overall System Usability Scale </em>
+
+*SUS scoring is based on <a href="https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html" target="_blank">this article</a> for scoring sus.
+
+</div>
+
+
+
+<div>
+<h2>
+Challenges with the Hi-Fidelity Prototype
+</h2>
+
+<h4>
+Prototype not updating to show what the user selected on the order screen
+</h4>
+
+<p>
+With Figma only being a prototyping tool, I researched how I could make the prototype carry over user data from the menu screen to the order screen. I tried using overlays, however they only allow for one frame to overlay another frame. I decided not to make 50+ frames for each individual order due to potential prototype run-time issues, and excessive/unnecessary work to create all of those individual screens. To develop this app, the user should be able to select the specific item they want, and check-out with that item (or multiple items) on the order screen. 
+</p>
+
+<h4>
+User customization only showing options for certain drinks 
+</h4>
+<p>
+To develop this app, I would suggest to developers in the case where the user selects a specific drink, only specific customization options are available. For example, users might not want to put chocolate in their cappuccino, but they might desire to change their milk option. The app should have specific customization options for each drink that may also overlap with other drinks. 
+</p>
+</div>
+
+
+
+<div>
+<h2>
+Design System
+</h2>
+
+<img src="/assets/images/ux-images/Coffee-App-Design-System.png" alt="Coffee Shop App Design System">
+
+</div>
+
+
+
+<div>
+<h2>
+What I Learned.
+</h2>
+
+<ul>
+<li>Prototypes are not fully functional, and still have limitations </li>
+
+<li>Components are very helpful when duplicating icons, buttons, etc. for consistency within the app </li>
+
+<li>Component Variants are very helpful for prototype interactions, when selecting and deselecting options </li>
+
+<li>Users prefer to see consistency within the app, and prototypes that will function very closely to an app functionality </li>
+
+<li>Not everything that seems straightforward to the designer (i.e. scrolling down the page), is always clear to users </li>
+
+<li>Don’t get so caught up in the details, designs will always be able to be improved and if you strive for perfection over progress, you will never finish your designs. </li>
+</ul>
+
+
+<a href="https://www.figma.com/proto/IOQfPZk3sHsSsKyY830LaU/Wireframes-for-Coffee-Shop-App?node-id=347-6252&page-id=347%3A6251&scaling=scale-down&starting-point-node-id=347%3A6252&viewport=1017%2C598%2C0.34" target="_blank">Interact with the Hi-Fidelity Prototype</a> 
+
+<img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Coffee Shop App Design System">
+
+<a href="www.annettelofing.github.io" target="_blank">Back to Portfolio</a> 
+
 </div>
