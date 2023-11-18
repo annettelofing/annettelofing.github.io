@@ -373,6 +373,6 @@ What I Learned.
 
 <img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Coffee Shop App Design System">
 
-<a href="www.annettelofing.github.io" target="_blank">Back to Portfolio</a> 
+<!-- <a href="www.annettelofing.github.io" target="_blank">Back to Portfolio</a>  -->
 
 </div>
