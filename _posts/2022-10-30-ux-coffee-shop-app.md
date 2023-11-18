@@ -6,21 +6,21 @@ categories: [UX, Project]
 tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer] #always lowercase for tag names 
 ---
 
-<div>
+<!-- <div> -->
 <img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design">
 
-<h2>
-Coffee Shop App Design 
-</h2>
+
+## Coffee Shop App Design 
+
 <h4>
 App Design + Iterative User Research  
 </h4>
 
 <hr>
 
-<h2>
-Overview   
-</h2>
+<!-- <h2> -->
+## Overview   
+<!-- </h2> -->
 
 <h4>
 <b> Timeline: </b> 3 months <br>
@@ -30,14 +30,14 @@ Overview
 </h4>
 
 <hr>
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Inital User Research 
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## Inital User Research 
+<!-- </h2> -->
 
 <p>
 I interviewed six participants about their habits when visiting coffee shops, and when mobile ordering from an app. Participants that enjoyed using mobile apps for ordering enjoyed having the ability to select their item, potentially customize it, and earn rewards. From this initial study on coffee shop related habits, I concluded… 
@@ -58,14 +58,14 @@ I interviewed six participants about their habits when visiting coffee shops, an
 --> 
 <hr>
 <br>
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-User Persona 
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## User Persona 
+<!-- </h2> -->
 
 <p>
 Understanding the customer is crucial in an app design process. I created this persona from gathering research through user interviews with a user group who visit local coffee shops frequently. I incorporated those user research insights into this user persona. 
@@ -78,9 +78,9 @@ Adding An Image with HTML
 
 <img src="/assets/images/ux-images/UserPersona-IrisWagner.png" alt="User Persona: Iris">
 
-<h2>
-User Journey Map 
-</h2>
+<!-- <h2> -->
+## User Journey Map 
+<!-- </h2> -->
 
 <p> 
 After creating a user persona, I also created a user journey map to help me understand the tasks that Iris needed to complete within the app. 
@@ -88,9 +88,9 @@ After creating a user persona, I also created a user journey map to help me unde
 
 <img src="/assets/images/ux-images/User+Journey+Map+-Iris.jpg" alt="User Journey Map: Iris">
 
-<h2>
-User Storyboards 
-</h2>
+<!-- <h2> -->
+## User Storyboards 
+<!-- </h2> -->
 
 <p>
 I also found Storyboards helpful for mapping and understanding the user journey as the use the Kindred Coffee shop app. 
@@ -99,15 +99,16 @@ I also found Storyboards helpful for mapping and understanding the user journey 
 <img src="/assets/images/ux-images/UX-Storyboard-BigPicture.jpg" alt="User Storyboard - Big Picture">
 
 <img src="/assets/images/ux-images/UX-Storyboard-CloseUp.jpg" alt="User Storyboard - Close Up">
-</div>
-
-
-
-<div>
 <br>
-<h2>
-Competitive Audit 
-</h2>
+<!-- </div> -->
+
+
+
+<!-- <div> -->
+
+<!-- <h2> -->
+## Competitive Audit 
+<!-- </h2> -->
 
 <p>
 There are many different coffee shop apps already on the market. To understand what other apps are doing well and not so well, I conducted a competitive audit. I conducted research with direct competitors including Starbucks, Dutch Bros, Dunkin’ Donuts, and Black Rifle Coffee Co., as well as indirect competitors including Chick-Fil-A and Sonic. 
@@ -142,14 +143,14 @@ Adding a link with HTML
 --> 
 
 <a href="https://docs.google.com/spreadsheets/d/17MVtPk1YZZ371oviQPUJlgmDd9ZYc0pYsn7T1uCYEwg/edit?resourcekey=0-Jn9P1epy-2hBLU1b3K6Wbg#gid=2073884517" target="_blank">Research Notes</a> 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Wireframes
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## Wireframes
+<!-- </h2> -->
 
 <p> 
 For the homepage of the app, I sketched out a few different options and combined some of the screens into a final first draft of the homepage design.
@@ -164,14 +165,14 @@ Then I created some low fidelity wireframes on Figma to represent the main user 
 <img src="/assets/images/ux-images/Low-Fi-1.png" alt="Low Fidelity Prototype Image 1">
 <img src="/assets/images/ux-images/Low-Fi-2.png" alt="Low Fidelity Prototype Image 2">
 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Low-Fidelity Prototype
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## Low-Fidelity Prototype
+<!-- </h2> -->
 
 <p>
 Then I created a low-fidelity prototype to gather research from 5 potential users to gather feedback and iterate on my designs. 
@@ -190,22 +191,22 @@ After User Research with the Low-Fidelity Prototype
 </ul>
 
 <a href="https://docs.google.com/spreadsheets/d/1SyxswuNwwRUnkl6CdqDyZ1lc0FK_oSDB/edit#gid=1189135295" target="_blank">Research Notes</a> 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Hi-Fidelity Prototype
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## Hi-Fidelity Prototype
+<!-- </h2> -->
 
 <img src="/assets/images/ux-images/App-Mockup-three-screens.png" alt="App Mockup">
 
 <a href="https://www.figma.com/proto/IOQfPZk3sHsSsKyY830LaU/Wireframes-for-Coffee-Shop-App?node-id=347-6252&page-id=347%3A6251&scaling=scale-down&starting-point-node-id=347%3A6252&viewport=1017%2C598%2C0.34" target="_blank">Interact with the Hi-Fidelity Prototype</a> 
 
-<h2>
-User Research with Hi-Fidelity Prototype
-</h2>
+<!-- <h2> -->
+## User Research with Hi-Fidelity Prototype
+<!-- </h2> -->
 
 <img src="/assets/images/ux-images/GabeAndrade-Quote2.png" alt="User Feedback Quote">
 
@@ -221,14 +222,14 @@ Although, through affinity mapping I found critical issues to address within the
 
 <img src="/assets/images/ux-images/Affinity-Map-3.png" alt="Affinity Map">
 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-App Changes and Improvements
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## App Changes and Improvements
+<!-- </h2> -->
 
 <h4>
 Insights from Affinity Map - Level 1 Priority (1-6)
@@ -243,6 +244,12 @@ Insights from Affinity Map - Level 1 Priority (1-6)
 <li>Change ads in menu to better resemble button </li>
 </ol>
 
+<img src="/assets/images/ux-images/Screen+Shot+2022-09-06+at+1.35.43+PM.png" alt="Insights from Affinity Map - 1">
+
+
+<!-- </div> -->
+
+<!-- <div> -->
 <h4>
 Insights from Affinity Map - Level 2 Priority (7-10)
 </h4>
@@ -254,26 +261,28 @@ Insights from Affinity Map - Level 2 Priority (7-10)
 <li>Change 16oz drink to medium, not small </li>
 </ol>
 
+<img src="/assets/images/ux-images/Screen+Shot+2022-09-06+at+1.36.12+PM.png" alt="Insights from Affinity Map - 2">
+
 <h4> 
 Recommendations for next app update: 
 </h4>
 
-<u1>
+<ul>
 <li>Add custom tip input option </li>
-<li>Add input box for drink customization </li>
+<li>Add input box for drink customization</li>
 </ul> 
 
 <br>
 <p><a href="https://docs.google.com/spreadsheets/d/11iWcz0MxtU8M_11wLa7YuhpcaLkOUcXp6UMGjjPaJAk/edit#gid=0" target="_blank">Research Notes</a> 
 </p>
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-System Usability Scale (SUS)
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## System Usability Scale (SUS)
+<!-- </h2> -->
 
 <h4>
 My SUS Questions: 
@@ -291,9 +300,9 @@ My SUS Questions:
 <li>I found the ordering process inconvenient.</li>
 </ol>
 
-<h2> 
-Scoring the SUS
-</h2>
+<!-- <h2>  -->
+## Scoring the SUS
+<!-- </h2> -->
 
 <h4>
 Based on my participant feedback each participant had an overall SUS score: 
@@ -307,18 +316,20 @@ Based on my participant feedback each participant had an overall SUS score:
 <li>Participant E: 72.5 </li>
 </ul>
 
-<h4> Average SUS: 367.5 / 5 = <em> 73.5 Overall System Usability Scale </em> </h4>
+<h3> Average SUS: 367.5 / 5 = <strong> 73.5 Overall System Usability Scale </strong> </h3>
+
+<img src="/assets/images/ux-images/SUS-Graphic.png" alt="System Usability Scale Graphic">
 
 *SUS scoring is based on <a href="https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html" target="_blank">this article</a> for scoring sus.
 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Challenges with the Hi-Fidelity Prototype
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## Challenges with the Hi-Fidelity Prototype
+<!-- </h2> -->
 
 <h4>
 Prototype not updating to show what the user selected on the order screen
@@ -334,25 +345,25 @@ User customization only showing options for certain drinks
 <p>
 To develop this app, I would suggest to developers in the case where the user selects a specific drink, only specific customization options are available. For example, users might not want to put chocolate in their cappuccino, but they might desire to change their milk option. The app should have specific customization options for each drink that may also overlap with other drinks. 
 </p>
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-Design System
-</h2>
+<!-- <div> -->
+
+## Design System
+
 
 <img src="/assets/images/ux-images/Coffee-App-Design-System.png" alt="Coffee Shop App Design System">
 
-</div>
+<!-- </div> -->
 
 
 
-<div>
-<h2>
-What I Learned.
-</h2>
+<!-- <div> -->
+<!-- <h2> -->
+## What I Learned.
+<!-- </h2> -->
 
 <ul>
 <li>Prototypes are not fully functional, and still have limitations </li>
@@ -375,4 +386,4 @@ What I Learned.
 
 <!-- <a href="www.annettelofing.github.io" target="_blank">Back to Portfolio</a>  -->
 
-</div>
+<!-- </div> -->
