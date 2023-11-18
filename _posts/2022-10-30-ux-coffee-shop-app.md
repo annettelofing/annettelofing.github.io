@@ -234,44 +234,39 @@ App Changes and Improvements
 Insights from Affinity Map - Level 1 Priority (1-6)
 </h4>
 
-1. User is able to order the item they want instead of just a cappuccino 
-
-2. Customization is displayed with options that are only related to the type of drink. Clear option for no additional customization as well (0 pump options). 
-
-3. Change pickup time input - takes up a lot of screen space, not clear that you need to scroll down
-
-4. Combine rewards and points page - add rewards underneath points progress bar
-
-5. Change verbiage to make scan app button clear
-
-6. Change ads in menu to better resemble button
+<ol>
+<li>User is able to order the item they want instead of just a cappuccino </li>
+<li>Customization is displayed with options that are only related to the type of drink. Clear option for no additional customization as well (0 pump options). </li>
+<li>Change pickup time input - takes up a lot of screen space, not clear that you need to scroll down </li>
+<li>Combine rewards and points page - add rewards underneath points progress bar </li>
+<li>Change verbiage to make scan app button clear </li>
+<li>Change ads in menu to better resemble button </li>
+</ol>
 
 <h4>
 Insights from Affinity Map - Level 2 Priority (7-10)
 </h4>
 
-7. Change font in app to a more sophisticated typeface
-
-8. Customer subtotal should be displayed at top of checkout page 
-
-9. Change barcode page to a real QR barcode
-
-10. Change 16oz drink to medium, not small 
+<ol start="7">
+<li>Change font in app to a more sophisticated typeface </li>
+<li>Customer subtotal should be displayed at top of checkout page </li>
+<li>Change barcode page to a real QR barcode </li>
+<li>Change 16oz drink to medium, not small </li>
+</ol>
 
 <h4> 
 Recommendations for next app update: 
 </h4>
 
 <u1>
-<li>Add custom tip input option</li>
-<li>Add input box for drink customization</li>
-<!-- </ul> -->
+<li>Add custom tip input option </li>
+<li>Add input box for drink customization </li>
+</ul> 
 
 <br>
 <p><a href="https://docs.google.com/spreadsheets/d/11iWcz0MxtU8M_11wLa7YuhpcaLkOUcXp6UMGjjPaJAk/edit#gid=0" target="_blank">Research Notes</a> 
 </p>
-
-<!-- </div> -->
+</div>
 
 
 
@@ -283,26 +278,18 @@ System Usability Scale (SUS)
 <h4>
 My SUS Questions: 
 </h4> 
-
-1. I think that I would use this app frequently.
-
-2. I find the app unnecessarily complex.
-
-3. I think the app is easy to use.
-
-4. I find the app easy to navigate. 
-
-5. There is inconsistency within the app. 
-
-6. I feel confident using the app.
-
-7. I need to learn a lot of things before I can start using this app.
-
-8. The main user flow is clear.
-
-9. I found the payment system frustrating.
-
-10. I found the ordering process inconvenient.
+<ol>
+<li>I think that I would use this app frequently.</li>
+<li>I find the app unnecessarily complex.</li>
+<li>I think the app is easy to use.</li>
+<li>I find the app easy to navigate.</li>
+<li>There is inconsistency within the app. </li>
+<li>I feel confident using the app.</li>
+<li>I need to learn a lot of things before I can start using this app.</li>
+<li>The main user flow is clear.</li>
+<li>I found the payment system frustrating.</li>
+<li>I found the ordering process inconvenient.</li>
+</ol>
 
 <h2> 
 Scoring the SUS
@@ -312,19 +299,15 @@ Scoring the SUS
 Based on my participant feedback each participant had an overall SUS score: 
 </h4>
 
-Participant A: 92.5
+<ul>
+<li>Participant A: 92.5 </li>
+<li>Participant B: 57.5 </li>
+<li>Participant C: 90 </li>
+<li>Participant D: 55 </li>
+<li>Participant E: 72.5 </li>
+</ul>
 
-Participant B: 57.5
-
-Participant C: 90
-
-Participant D: 55
-
-Participant E: 72.5 
-
-Average SUS: 367.5 / 5 =
-
-<em> 73.5 Overall System Usability Scale </em>
+<h4> Average SUS: 367.5 / 5 = <em> 73.5 Overall System Usability Scale </em> </h4>
 
 *SUS scoring is based on <a href="https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html" target="_blank">this article</a> for scoring sus.
 
