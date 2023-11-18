@@ -7,10 +7,12 @@ tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer] #always 
 ---
 
 <!-- <div> -->
-<img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design">
+<img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design" class="popup img-link preview-img">
 
 
-## Coffee Shop App Design 
+<p>
+I interviewed six participants about their habits when visiting coffee shops, and when mobile ordering from an app. Participants that enjoyed using mobile apps for ordering enjoyed having the ability to select their item, potentially customize it, and earn rewards. From this initial study on coffee shop related habits, I concluded… 
+</p>
 
 <h4>
 App Design + Iterative User Research  
@@ -19,7 +21,7 @@ App Design + Iterative User Research
 <hr>
 
 <!-- <h2> -->
-## Overview   
+## Overview:  
 <!-- </h2> -->
 
 <h4>
@@ -36,12 +38,12 @@ App Design + Iterative User Research
 
 <!-- <div> -->
 <!-- <h2> -->
-## Inital User Research 
+<!-- ## Inital User Research  -->
 <!-- </h2> -->
-
+<!-- 
 <p>
 I interviewed six participants about their habits when visiting coffee shops, and when mobile ordering from an app. Participants that enjoyed using mobile apps for ordering enjoyed having the ability to select their item, potentially customize it, and earn rewards. From this initial study on coffee shop related habits, I concluded… 
-</p>
+</p> -->
 
 <h3> 
 <b> The Main User Needs </b>
@@ -57,7 +59,6 @@ I interviewed six participants about their habits when visiting coffee shops, an
 <!-- ![Coffee Mug](/assets/images/nolan-issac-It0DCaCBr40-unsplash.jpg)
 --> 
 <hr>
-<br>
 <!-- </div> -->
 
 
