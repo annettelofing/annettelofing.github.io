@@ -8,7 +8,7 @@ tags: [sql,project,portfolio,tableau,analytics,analysis,pizza,sales,evaluation,s
 
 
 
-## Problem Statement 
+## Problem Statement -
 A pizza place wants to determine from their sales information how to better increase their overall income and find actionable insights for the next year. 
 
 The data I analyzed came from [Maven Analytics Data Playground](https://www.mavenanalytics.io/data-playground) under "Pizza Place Sales". 

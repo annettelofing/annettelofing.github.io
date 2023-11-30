@@ -1,3 +1,5 @@
+<!--
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
@@ -54,3 +56,5 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+-->
