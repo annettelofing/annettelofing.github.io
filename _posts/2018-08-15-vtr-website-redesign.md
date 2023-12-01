@@ -4,9 +4,11 @@ title:  "VTR Website Redesign"
 date:   2018-08-15 14:21:39 -0500
 categories: [Design, Project, Redesign, Case Study]
 tags: [website,project,portfolio,design,redesign,case,study,dynamic,designer] #always lowercase for tag names 
+image: 
+    path: /assets/images/vtr-images/VTR+Splash+Mockup+label.png
+    alt: VTR Website Redesign Mockup
 ---
 
-<img src="/assets/images/vtr-images/VTR+Splash+Mockup+label.png" alt="User Persona" class="popup img-link preview-img">
 
 <p>
 VTR Learning is a premier provider of CPE courses that use a fun and engaging virtual format, so that accountants, human resources professionals, and licensed specialists can collect recertification credits at their own pace through a story-based learning platform.

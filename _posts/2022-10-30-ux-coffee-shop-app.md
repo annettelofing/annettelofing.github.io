@@ -4,19 +4,21 @@ title:  "UX Coffee Shop Design Case Study"
 date:   2022-10-30 14:21:39 -0500
 categories: [UX, Project]
 tags: [ux,project,portfolio,design,case,study,coffee,shop,app,designer] #always lowercase for tag names 
+image: 
+    path: /assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png
+    alt: Featured Mobile Mockup Design
 ---
 
 <!-- <div> -->
-<img src="/assets/images/ux-images/Mobile-Mockup-Splash-Brown2.png" alt="Featured Mobile Mockup Design" class="popup img-link preview-img">
 
 
 <p>
 I interviewed six participants about their habits when visiting coffee shops, and when mobile ordering from an app. Participants that enjoyed using mobile apps for ordering enjoyed having the ability to select their item, potentially customize it, and earn rewards. From this initial study on coffee shop related habits, I concluded… 
 </p>
 
-<h4>
+<!-- <h4>
 App Design + Iterative User Research  
-</h4>
+</h4> -->
 
 <hr>
 
