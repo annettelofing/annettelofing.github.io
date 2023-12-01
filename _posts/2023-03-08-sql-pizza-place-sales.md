@@ -3,7 +3,10 @@ layout: post
 title:  "SQL Pizza Place Sales"
 date:   2023-03-08 14:21:39 -0500
 categories: [SQL, Project, Maven Analytics]
-tags: [sql,project,portfolio,tableau,analytics,analysis,pizza,sales,evaluation,stakeholders,self-directed] #always lowercase for tag names 
+tags: [sql,project,portfolio,tableau,analytics,analysis,pizza,sales,evaluation,stakeholders,self-directed] #always lowercase for tag names
+image: 
+    path: /assets/images/pizza-place-images/Pizza-Place-Sales-Graphic2.png
+    alt: Pizza Place Sales
 --- 
 
 
