@@ -12,11 +12,7 @@ order: 2
 
 ### Why Data Analytics? 
 I love data analytics because it is systematic, investigative, and focuses on problem solving with multiple layers. I feel connected to the data as I naturally analyze it and search for a deeper message within the information to reveal actionable insights. 
- 
 
-<!-- ## 📍 Projects 
-- [SQL - Pizza Place Sales](https://github.com/annetteorrick/Pizza-Place-Sales)
--->
 
 ## 💡 My Skills
 - Data preparation, quality assurance, and analysis
@@ -30,12 +26,10 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 - **Project Management:** Trello, JIRA, Azana, Monday
 
 ## 🌟 Resume 
-
-<!-- <embed src="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" type="application/pdf"/> -->
+<a href="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" target="blank"> Download Resume </a>
 
 <object data="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" width="600" height="600" type='application/pdf'></object>
 
-<!-- - ![Resume PDF](/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf) -->
 
 
 ## 👋🏼 Connect with Me 
