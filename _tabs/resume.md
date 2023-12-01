@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-solid fa-file
-order: 2
+order: 3
 ---
 
 <a href="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" target="blank"> Download Resume </a>
