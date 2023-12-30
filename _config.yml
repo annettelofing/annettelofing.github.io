@@ -49,7 +49,7 @@ google_site_verification: # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Google Analytics
+# Google Analytics 
 google_analytics:
   id: G-T2JGST8W6S # fill in your Google Analytics ID
 
