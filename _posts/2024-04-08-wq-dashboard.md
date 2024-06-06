@@ -194,6 +194,7 @@ This makes sure that nobody is editing the data that doesn't need to be editing 
 - My brain understands and works much better this way (in pictures and charts) than with numbers in a table 
 - I love the visual respresentation of the data. It helps my brain process all the numbers.  
 
+<hr> 
 ## Third Interation
 ### Colors & Hierarchy
 
