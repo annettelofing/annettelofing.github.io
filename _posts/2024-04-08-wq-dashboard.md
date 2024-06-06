@@ -194,6 +194,48 @@ This makes sure that nobody is editing the data that doesn't need to be editing 
 - My brain understands and works much better this way (in pictures and charts) than with numbers in a table 
 - I love the visual respresentation of the data. It helps my brain process all the numbers.  
 
+## Third Interation
+### Colors & Hierarchy
+
+<p>
+After showing this to my mentor for more feedback, she emphasized that color would draw the attention of people, and that I could use the colors and orientation of the dashboard to help them see even more meaningful data. 
+</p>
+
+<img src="assets/images/wq-dashboard/Iteration3-Dashboard - Changes.png" alt="Changes to the Work Queue Dashboard" class="">
+
+<p>
+For example: 
+On the Medonc Clinic Appointments, the nurse practicioner and the doctor work closely together, making them groups of two. 
+<p>
+
+- Dr. Work and Dawn 
+- Dr. Swink and Page 
+- Dr. Jahangiri and Leah
+
+<p>
+I also moved the workqueue totals to the right since that information is the largest totals we have, but it is also less important than the Med Onc Appointments. We only work out of the "Active" Workqueue, therefore I colored this section of the bar graph in green. 
+</p>
+
+<img src="assets/images/wq-dashboard/Iteration3-Dashboard - Changes.png" alt="Changes to the Work Queue Dashboard" class="">
+
+
+### Temporary vs. Sustainable? 
+<p> 
+The last thing I changed in Iteration 3 will hopefully be a change that will make this dashboard more sustainable and a long-term tool. 
+
+I created a "How to Refresh the Data" Section for people who are updating the spreadsheet in the future (this could potentially be differnt people) and want to see future dates. 
+</p>
+<img src="assets/images/wq-dashboard/Iteration3-Dashboard - Changes.png" alt="Changes to the Work Queue Dashboard" class="">
+
+<p>
+I created a column in the data to filter it out by quarter of the year. After some time, we might decide to only show quarters at a time rather than week-to-week. I wanted us to have the flexibility to see that, and added that to filter our dashboard when selected. 
+</p>
+
+<img src="assets/images/wq-dashboard/Iteration3-Dashboard-Quarter.png" alt="Iteration 3 of Work Queue Dashboard" class="">
+
+### What the data looks like with the new changes
+<img src="assets/images/wq-dashboard/WQ-Data-withQuarters.png" alt="Data with Quarters of the Year of Work Queue Dashboard" class="">
+
 ## Conclusion 
 <p>
 I believe this project was a huge success for our data reporting and understanding needs for our work queues that we manage as a team. 
@@ -203,4 +245,4 @@ I believe this project was a huge success for our data reporting and understandi
 My team leader and supervisor asked if they could start implementing it right away (even after just the first iteration). 
 </p> 
 
-<img src="/assets/images/wq-dashboard/WQ-Dashboard-2-Iteration.png" alt="Iteration 2 of Work Queue Dashboard" class="">
+<img src="/assets/images/wq-dashboard/Iteration3-Dashboard.png" alt="Iteration 3 of Work Queue Dashboard" class="">
