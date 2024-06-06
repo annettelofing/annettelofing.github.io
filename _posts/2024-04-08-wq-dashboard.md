@@ -198,7 +198,7 @@ This makes sure that nobody is editing the data that doesn't need to be editing 
 ### Colors & Hierarchy
 
 <p>
-After showing this to my mentor for more feedback, she emphasized that color would draw the attention of people, and that I could use the colors and orientation of the dashboard to help them see even more meaningful data. 
+After showing this to my mentor for more feedback, she emphasized that color would draw the attention to different areas, and that I could use the colors and orientation of the dashboard to help them see even more meaningful data. 
 </p>
 
 <img src="assets/images/wq-dashboard/Iteration3-Dashboard - Changes.png" alt="Changes to the Work Queue Dashboard" class="">
@@ -206,7 +206,7 @@ After showing this to my mentor for more feedback, she emphasized that color wou
 <p>
 For example: 
 On the Medonc Clinic Appointments, the nurse practicioner and the doctor work closely together, making them groups of two. 
-<p>
+</p>
 
 - Dr. Work and Dawn 
 - Dr. Swink and Page 
@@ -222,9 +222,11 @@ I also moved the workqueue totals to the right since that information is the lar
 ### Temporary vs. Sustainable? 
 <p> 
 The last thing I changed in Iteration 3 will hopefully be a change that will make this dashboard more sustainable and a long-term tool. 
-
-I created a "How to Refresh the Data" Section for people who are updating the spreadsheet in the future (this could potentially be differnt people) and want to see future dates. 
 </p>
+<p>
+I created a "How to Refresh the Data" Section for people who are updating the spreadsheet in the future (this could potentially be differnt people) and want to see future dates updated on the dashboard. 
+</p>
+
 <img src="assets/images/wq-dashboard/Iteration3-Dashboard - Changes.png" alt="Changes to the Work Queue Dashboard" class="">
 
 <p>
