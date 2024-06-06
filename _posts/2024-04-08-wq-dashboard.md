@@ -23,7 +23,7 @@ This queue has been significantly difficult to manage, including identifying how
 
 ## Overview: 
 **Project:** Dashboard Report for Tracking Team Workqueue Numbers  
-**Software:** Excel: Pivot Tables, Pivot Charts
+**Software:** Excel: Pivot Tables, Pivot Charts  
 **Skills:** Combining and Cleaning Data, Data Visualization with Excel 
 
 ### Problem: 
