@@ -26,13 +26,14 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 - **Project Management:** Trello, JIRA, Azana, Monday
 
 ## 🌟 Resume 
-<a href="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" target="blank"> Download Resume </a>
+<a href="/assets/documents/Lofing-Judith-Annette-Resume-05-2024.pdf" target="blank"> Download Resume </a>
 
-<object data="/assets/documents/Lofing-Judith-Annette-Resume-11-2023.pdf" width="600" height="600" type='application/pdf'></object>
+<object data="/assets/documents/Lofing-Judith-Annette-Resume-05-2024.pdf" width="600" height="600" type='application/pdf'></object>
 
 
 
 ## 👋🏼 Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/annette-lofing-12a579138/ "LinkedIn")
-- [Medium](https://medium.com/@thenetta101 "Medium") 
+<!-- [Medium](https://medium.com/@thenetta101 "Medium") 
+--> 
 

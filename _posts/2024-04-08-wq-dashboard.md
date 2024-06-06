@@ -239,6 +239,8 @@ I created a column in the data to filter it out by quarter of the year. After so
 ### What the data looks like with the new changes
 <img src="assets/images/wq-dashboard/WQ-Data-withQuarters.png" alt="Data with Quarters of the Year of Work Queue Dashboard" class="">
 
+<hr>
+
 ## Conclusion 
 <p>
 I believe this project was a huge success for our data reporting and understanding needs for our work queues that we manage as a team. 
