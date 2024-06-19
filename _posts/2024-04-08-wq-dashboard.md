@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dashboard Report for Patient Scheduling Team Work Queues"
+title:  "Dashboard Report for Patient Scheduling Team Job/Work Queues"
 date:   2024-04-08 08:10:39 -0700
 categories: [Excel, Health Data, Work Project, Dashboard, Project]
 tags: [excel,work,project,portfolio,analytics,analysis,health,data,healthcare,exploritory,evaluation,insights,self-directed] #always lowercase for tag names
