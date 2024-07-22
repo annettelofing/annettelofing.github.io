@@ -24,18 +24,17 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 - **Presentations:** Office 365, GSuite
 - **Project Management:** Trello, JIRA, Azana, Monday, Agile, Scrum
 
-## 📃 My Achievements 
-### In my current position I have
+## 📃 Career Achievements 
 - Created a dashboard to report scheduling KPI’s with over 2,000 daily appointments to our stakeholders and team. The dashboard was implemented on the first iteration. 
 - Created and maintained documentation for onboarding and job aids/workflows
 - Onboarded 4 new employees 
 - Scheduled treatment plans for individual patients with multiple correlating appointments that need adjusted based on their response to various medications. 
 - Consistently averaged over 50 appointments scheduled per day  
 
-### I have also pursued additional projects in my free time
+## Personal Projects
 - Developed a GitHub website to display my portfolio 
 - Explored and evaluated my own personal Fitbit watch health data 
-- Improved my SQL and Python skills with personal projects 
+- Utilized my SQL and Python skills 
 
 
 ## 🌟 Resume 
