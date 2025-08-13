@@ -19,8 +19,9 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 - Solutions focused, detail-oriented, personable/organized
 
 ## 🛠️ My Tools
+- **EHR:** EPIC Superuser and EPIC Reporting
 - **Databases:** Microsoft SQL Server, Excel
-- **Visualization:** Tableau
+- **Visualization:** Tableau, Power BI
 - **Presentations:** Office 365, GSuite
 - **Project Management:** Trello, JIRA, Azana, Monday, Agile, Scrum
 
@@ -38,9 +39,9 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 
 
 ## 🌟 Resume 
-<a href="/assets/documents/Lofing-Judith-Annette-Resume-12-2024.pdf" target="blank"> Download Resume </a>
+<a href="/assets/documents/Lofing-Judith-Annette-Resume-08-2025.pdf" target="blank"> Download Resume </a>
 
-<object data="/assets/documents/Lofing-Judith-Annette-Resume-12-2024.pdf" width="600" height="600" type='application/pdf'></object>
+<object data="/assets/documents/Lofing-Judith-Annette-Resume-08-2025.pdf" width="600" height="600" type='application/pdf'></object>
 
 
 
