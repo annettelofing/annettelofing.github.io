@@ -39,9 +39,9 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 
 
 ## 🌟 Resume 
-<a href="/assets/documents/Lofing-Judith-Annette-Resume-08-2025.pdf" target="blank"> Download Resume </a>
+<a href="/assets/documents/Lofing-Judith-Annette-Resume-02-2026.pdf" target="blank"> Download Resume </a>
 
-<object data="/assets/documents/Lofing-Judith-Annette-Resume-08-2025.pdf" width="600" height="600" type='application/pdf'></object>
+<object data="/assets/documents/Lofing-Judith-Annette-Resume-02-2026.pdf" width="600" height="600" type='application/pdf'></object>
 
 
 
